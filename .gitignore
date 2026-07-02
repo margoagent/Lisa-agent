@@ -1,0 +1,7 @@
+google/credentials.json
+google/token.json
+*.log
+__pycache__/
+*.pyc
+claude-plugins-official/
+.claude/settings.local.json

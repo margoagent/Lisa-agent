@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__plugin_telegram_telegram__reply",
+      "mcp__plugin_telegram_telegram__react",
+      "mcp__plugin_telegram_telegram__edit_message",
+      "Bash(curl -s https://labs.mariafonina.ru/api/agent/me *)",
+      "Bash(curl -s https://labs.mariafonina.ru/api/agent/materials *)",
+      "Bash(curl -s https://labs.mariafonina.ru/api/agent/updates *)"
+    ]
+  }
+}

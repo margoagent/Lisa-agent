@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /root/.claude/channels/telegram/approved)",
+      "Bash(printf '652009128')"
+    ]
+  }
+}
